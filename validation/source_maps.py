@@ -1,5 +1,5 @@
 """
-Feature 15. Source Maps (Python ↔ Luau)
+ Source Maps (Python ↔ Luau)
 
 Maps Python lines to Luau lines for error mapping and debugging.
 """

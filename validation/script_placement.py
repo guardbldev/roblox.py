@@ -1,5 +1,5 @@
 """
-Feature 8. Automatic Script Placement System
+Automatic Script Placement System
 
 Routes compiled output into proper folders per context.
 """

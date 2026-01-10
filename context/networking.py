@@ -1,5 +1,5 @@
 """
-Feature 12. Built-in Networking Abstraction
+ Built-in Networking Abstraction
 
 Processes @remote, sets up RemoteEvents, permission checking, rate limiting
 """
