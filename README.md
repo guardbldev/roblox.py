@@ -50,4 +50,3 @@ With roblox.py, you write Python — and deploy Luau Scripts that:
 > APIs, syntax support, and features may change rapidly.
 
 
-Just tell me what you want next.
